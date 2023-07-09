@@ -1,7 +1,7 @@
 ## Hi there 👋
 Welcome to IronMC!  IronMC is about Minecraft Server Plugins(.jar) and supports plugins. 
-Our Discord: https://discord.gg/d8KJs9tEWg
-Our Wiki: https://woolmc.codedesign.app/
+### Our Discord: https://discord.gg/d8KJs9tEWg
+### Our Wiki: https://woolmc.codedesign.app/
 <!--
 
 **Here are some ideas to get you started:**
